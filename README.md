@@ -1,9 +1,9 @@
 # SportsWorld(HTML,CSS,JS,PHP)
 
-Objective: 
+<h3>Objective: </h3>
 Create a website or web application using the five languages. HTML, CSS, Javascript and PHP with MariaDB which used SQL. 
 
-Proposes of the project: 
+<h3>Proposes of the project: </h3>
 It has been some time since I have personally done some HTML, CSS apart from Workshop tutoring at VUW for INFO 101. 
 Secondly wanted build on my Javascript knowledge. 
 I wanted to learn about PHP and to use MariaDB.  
