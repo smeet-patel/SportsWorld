@@ -1,6 +1,6 @@
-# SportsWorld(HTML,CSS,JS,PHP)
+SportsWorld(HTML,CSS,JS,PHP)
 
-<h3 style="color:blue;>Objective: </h3>
+<h3>Objective: </h3>
 Create a website or web application using the five languages. HTML, CSS, Javascript and PHP with MariaDB which uses SQL. 
 
 <h3>Proposes of the project: </h3>
@@ -11,3 +11,6 @@ So far I have been limited integrating SQL with the web-based application and ha
 Since I am using this personal project as a foundation for my future web-based projects, I have restricted myself with the time constraint of 3 days (during own time, after usual daily activities).
 
 Sports World is a website which is a central sports supporter site for various teams and athletes.  It also has a Login and new user registration which uses PHP and SQL to make the website more useful.
+
+<h4>Link to the website for the project overview <h4>
+https://smeet-patel.github.io/sportsWorld.html
