@@ -1,8 +1,5 @@
 # SportsWorld(HTML,CSS,JS,PHP)
 
-<h4 style="color:blue;">Link to the website for the project overview <h4>
-https://smeet-patel.github.io/sportsWorld.html
-
 <h3 style="color:blue;>Objective: </h3>
 Create a website or web application using the five languages. HTML, CSS, Javascript and PHP with MariaDB which uses SQL. 
 
