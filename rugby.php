@@ -1,4 +1,6 @@
 <?php
+	//$dbconn=pg_connect("host=db.ecs.vuw.ac.nz dbname=patelsmee-jdbc username=patelsmee password=pass123");
+	pg_query($dbconn, "selec")
 	// need user name, pass word  and database name.
 		$db = mysqli_connect("localhost", 
 		"myuser",
@@ -82,7 +84,7 @@
 									//filling in the table from the database infomation 
 										if($db == true){
 											$query = mysqli_query($db, "SELECT * FROM Comments");
-											while ($row = mysqli_fetch_array($query)) {
+			 								while ($row = mysqli_fetch_array($query)) {
 										//printing name and comment for every entry
 										echo
 										   "<tr>
