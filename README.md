@@ -12,5 +12,3 @@ Since I am using this personal project as a foundation for my future web-based p
 
 Sports World is a website which is a central sports supporter site for various teams and athletes.  It also has a Login and new user registration which uses PHP and SQL to make the website more useful.
 
-<h4>Link to the website for the project overview <h4>
-https://smeet-patel.github.io/sportsWorld.html
